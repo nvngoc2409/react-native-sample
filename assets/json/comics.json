@@ -1,0 +1,31 @@
+{
+    "comics": [
+        {
+            "id": 1,
+            "img": "https://static.wikia.nocookie.net/marveldatabase/images/5/54/New_Mutants_Vol_1_1.jpg/revision/latest?cb=20190416034121",
+            "title": "New Mutants #1",
+            "year": "1982",
+            "price": 6.99,
+            "soldOut": false,
+            "age": "14+"
+        },
+        {
+            "id": 2,
+            "img": "https://static.wikia.nocookie.net/marveldatabase/images/5/54/New_Mutants_Vol_1_1.jpg/revision/latest?cb=20190416034121",
+            "title": "Amazing Spider-Man #42",
+            "year": "1982",
+            "price": 0,
+            "soldOut": true,
+            "age": "14+"
+        },
+        {
+            "id": 3,
+            "img": "https://static.wikia.nocookie.net/marveldatabase/images/5/54/New_Mutants_Vol_1_1.jpg/revision/latest?cb=20190416034121",
+            "title": "Amazing Spider-Man #42",
+            "year": "1982",
+            "price": 0,
+            "soldOut": true,
+            "age": "14+"
+        }
+    ]
+}
